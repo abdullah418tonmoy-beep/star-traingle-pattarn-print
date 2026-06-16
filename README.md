@@ -1,0 +1,1 @@
+# star-traingle-pattarn-print
